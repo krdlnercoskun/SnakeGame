@@ -1,0 +1,10 @@
+C:\Users\HP\OneDrive\Masaüstü\C# yılan proje\Yılan\Yılan\bin\Debug\Yılan.exe.config
+C:\Users\HP\OneDrive\Masaüstü\C# yılan proje\Yılan\Yılan\bin\Debug\Yılan.exe
+C:\Users\HP\OneDrive\Masaüstü\C# yılan proje\Yılan\Yılan\bin\Debug\Yılan.pdb
+C:\Users\HP\OneDrive\Masaüstü\C# yılan proje\Yılan\Yılan\obj\Debug\Yılan.csprojAssemblyReference.cache
+C:\Users\HP\OneDrive\Masaüstü\C# yılan proje\Yılan\Yılan\obj\Debug\Yılan.yılan.resources
+C:\Users\HP\OneDrive\Masaüstü\C# yılan proje\Yılan\Yılan\obj\Debug\Yılan.Properties.Resources.resources
+C:\Users\HP\OneDrive\Masaüstü\C# yılan proje\Yılan\Yılan\obj\Debug\Yılan.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive\Masaüstü\C# yılan proje\Yılan\Yılan\obj\Debug\Yılan.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Masaüstü\C# yılan proje\Yılan\Yılan\obj\Debug\Yılan.exe
+C:\Users\HP\OneDrive\Masaüstü\C# yılan proje\Yılan\Yılan\obj\Debug\Yılan.pdb
